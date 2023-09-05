@@ -45,7 +45,7 @@ nav{
     font-family: 'Mont';
     flex-direction: row;
     border-left: 1.5px solid;
-    padding-left: 1em;
+    padding-left: 2em;
 }
 .socials{
     flex-direction: row;
